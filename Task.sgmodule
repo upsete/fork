@@ -1,3 +1,5 @@
+#!name=Task
+
 [Script]
 # > 百度签到
 #先登录,浏览器访问一下: https://tieba.baidu.com 或者 https://tieba.baidu.com/index/
